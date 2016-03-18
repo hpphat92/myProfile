@@ -1,0 +1,30 @@
+.heading {
+    font-style: italic;
+    padding: 10px;
+    background: linear-gradient(to right, #111, silver);
+    color: silver;
+}
+.jumbotron {
+    background: url("../img/beautiful-scene-forest-wallpapers-1024x768.jpg") no-repeat;
+    background-position: center;
+}
+.main-text {
+    color: #f2f2f2 !important;
+}
+.main-title {
+    font-family: cursive;
+    white-space: nowrap;
+}
+.main-text .splitter .small-text{
+    font-size: 10px !important;
+    color: #fff;
+    opacity: 0.8;
+}
+.splitter {
+    height: 20px;
+    width: 100%;
+    padding: 5px;
+}
+.main-button {
+    margin: 5px;
+}
